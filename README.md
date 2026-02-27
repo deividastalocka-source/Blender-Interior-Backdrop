@@ -13,7 +13,7 @@ This project was created as part of college coursework to demonstrate practical 
 
 ## Screenshot Preview
 
-![Interior Backdrop](Screenshots/Screenshot1)
+![Interior Backdrop](Screenshots/Screenshot1.png)
 
 ## Notes
 
